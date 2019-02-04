@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4719fb3a1cf3668488f75bd2a955e86f, type: 3}
+  m_Name: SceneLoader
+  m_EditorClassIdentifier: 
+  mainMenuName: {fileID: 11400000, guid: 8ef3439dc29df9349bd1928f1a9b560a, type: 2}
+  level1Name: {fileID: 11400000, guid: 3e9a0075de608624a821d7deae7706a9, type: 2}
+  level2Name: {fileID: 11400000, guid: 118b7d02e87c4e3438cd7c2230cc4978, type: 2}
+  level3Name: {fileID: 11400000, guid: fda3f5301718a8743919b611c77af94f, type: 2}
